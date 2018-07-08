@@ -3,9 +3,9 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Introduction to OAuth2, OpenID Connect and JSON Wen Tokens (JWT)](#introduction-to-oauth2-openid-connect-and-json-wen-tokens-jwt)
-  - [Secuirty Stack for Modern Applications](#secuirty-stack-for-modern-applications)
+  - [Security Stack for Modern Applications](#security-stack-for-modern-applications)
     - [OAuth2](#oauth2)
-    - [OpenID  Connect](#openid--connect)
+    - [OpenID Connect](#openid-connect)
   - [JSON Web Token (JWT)](#json-web-token-jwt)
     - [Purpose of Security Tokens](#purpose-of-security-tokens)
     - [JWT Structure and Format](#jwt-structure-and-format)
@@ -18,7 +18,7 @@
     - [OAuth2 Flows](#oauth2-flows)
       - [With User Interaction](#with-user-interaction)
       - [No User Interaction](#no-user-interaction)
-  - [OAuth2 Flows](#oauth2-flows-1)
+  - [OAuth2 Flows](#oauth2-flows)
     - [Code Flow: Authorization Request](#code-flow-authorization-request)
     - [Code Flow: Access and Refresh Token](#code-flow-access-and-refresh-token)
 
@@ -28,7 +28,7 @@
 
 > My notes from this [Pluralsight course](https://app.pluralsight.com/library/courses/oauth2-json-web-tokens-openid-connect-introduction/table-of-contents)
 
-## Secuirty Stack for Modern Applications
+## Security Stack for Modern Applications
 
 ### OAuth2
 
