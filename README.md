@@ -24,7 +24,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Introduction to OAuth2, OpenID Connect and JSON Wen Tokens (JWT)
+# Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)
 
 > My notes from this [Pluralsight course](https://app.pluralsight.com/library/courses/oauth2-json-web-tokens-openid-connect-introduction/table-of-contents)
 
