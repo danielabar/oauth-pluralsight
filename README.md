@@ -45,7 +45,7 @@ New standard.
 ### Purpose of Security Tokens
 
 - protected data structures
-- contain info about issuer and subject (clais)
+- contain info about issuer and subject (claims)
 - signed (tamper proof, authenticity), signing can be symmetric or asymmetric, client can be assured that token is authentically coming from said issuer therefore can trust token
 - usually have expiration time (eg: 10 hours, common in SAML)
 
