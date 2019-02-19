@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Introduction to OAuth2, OpenID Connect and JSON Wen Tokens (JWT)](#introduction-to-oauth2-openid-connect-and-json-wen-tokens-jwt)
+- [Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)](#introduction-to-oauth2-openid-connect-and-json-web-tokens-jwt)
   - [Security Stack for Modern Applications](#security-stack-for-modern-applications)
     - [OAuth2](#oauth2)
     - [OpenID Connect](#openid-connect)
